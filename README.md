@@ -1,8 +1,8 @@
-💱 Currency Converter (React)
+💱 Currency Converter (React) =>
 
 A real-time Currency Converter web application built using React.js that allows users to convert between multiple currencies using live exchange rates from an API.
 
-🚀 Features
+🚀 Features:
 
 Convert between multiple global currencies
 
@@ -31,9 +31,6 @@ React Router
 Currency Exchange API
 
 
-⚙️ Installation & Setup
-
-
 Navigate to the project folder:
 
 cd currency-converter-react
@@ -49,7 +46,7 @@ Start the project:
 npm start
 
 
-🎯 Learning Outcomes
+🎯 Learning Outcomes:
 
 Improved understanding of React component architecture
 
